@@ -10,7 +10,3 @@ Repositório destinado à entrega do Checkpoint 02 do segundo semestre.
 | João Pedro Sousa | 573962 |
 | Matheus Evangelista Silva | 568593 |
 | Murilo Lima de Carvalho | 570156 |
-
-## Sobre o Projeto
-
-Este repositório contém os arquivos, códigos e materiais desenvolvidos para a entrega do CP02.
